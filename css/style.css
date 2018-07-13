@@ -1,0 +1,35 @@
+
+.box{
+	background-color: #DADADA;
+}
+.gallery_body{
+	background-color: #EEEEEE;
+	text-align: center;
+}
+.img{
+
+}
+footer h1{
+	text-align: center;
+}
+footer p{
+	text-align: center;
+}
+footer ul{
+	/* display: inline; */
+	text-align: center;
+}
+footer ul li{
+    list-style: none;
+    display: inline;
+    margin-right: 25px;
+}
+footer ul li a{
+	text-decoration: none;
+}
+.social{
+	/* text-align: center; */
+}
+footer{
+	overflow: hidden;
+}
